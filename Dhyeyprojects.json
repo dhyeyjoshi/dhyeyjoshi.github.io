@@ -1,0 +1,166 @@
+[
+  {
+    "name": "NeuroVision",
+    "desc": "Multimodal Brain Tumor Detection: Using Semantic Segmentation with 3D U-Net Architecture.",    
+    "image": "Brain_tumor.gif",
+    "category": "Healthcare",
+    "links": {
+      "view": "https://medium.com/@dhyey-joshi12/image-segmentation-multimodal-brain-tumor-semantic-segmentation-using-3d-u-net-architecture-f4e73b7091be",
+      "code": "https://github.com/dhyeyjoshi/3D_Unet_Multimodal_Brain_Tumor_Semantic_Segmentation"
+    }
+  }, 
+    {
+        "name": "DiaPredict",
+        "desc": "Developing a robust framework for early and precise diabetes prediction, leveraging weighted ensemble machine learning models.",
+        "image": "Dia_pred.gif",
+        "category": "Healthcare",
+        "links": {
+          "view": "https://github.com/dhyeyjoshi/Exposys-Data-Labs-Internship-Project",
+          "code": "https://github.com/dhyeyjoshi/Exposys-Data-Labs-Internship-Project"
+        }
+    },
+    {
+        "name": "LeafAnalyzer",
+        "desc": "Harnessing VGG16 transfer learning for smart, real-time tomato leaf disease diagnostics using deep learning.",
+        "image": "leaf_disease.gif",
+        "category": "Healthcare",
+        "links": {
+          "view": "https://github.com/dhyeyjoshi/Tomato_Leaf_Disease_Classification_Using_Vgg16_Transfer_Learning",
+          "code": "https://github.com/dhyeyjoshi/Tomato_Leaf_Disease_Classification_Using_Vgg16_Transfer_Learning"
+        }
+    },
+    {
+        "name": "BreastCare: Cancer Diagnostic",
+        "desc": "Pioneering Neural Technologies for Breast Cancer Detection",
+        "image": "Breast_cancer_detect.gif",
+        "category": "Healthcare",
+        "links": {
+          "view": "https://github.com/dhyeyjoshi/Breast-Cancer-Detection-Using-Artificial-Neural-Network",
+          "code": "https://github.com/dhyeyjoshi/Breast-Cancer-Detection-Using-Artificial-Neural-Network"
+        }
+    },
+    {
+      "name": "Parkinson's Research",
+      "desc": "It represents a breakthrough in identifying subtle vocal biomarkers for Parkinson's disease, enhancing early intervention possibilities.",
+      "image": "parkinsons.jpg",
+      "category": "Healthcare",
+      "links": {
+        "view": "https://ieeexplore.ieee.org/document/9823509",
+        "code": "https://ieeexplore.ieee.org/document/9823509"
+      }
+    },
+    {
+        "name": "COVID Xray - LungScreen",
+        "desc": "Detection of COVID-19 Based on Chest X-rays Using Deep Learning",
+        "image": "Covid-19_lungs.png",
+        "category": "Healthcare",
+        "links": {
+          "view": "https://github.com/dhyeyjoshi/Covid19-Detection-Using-Chest-Xray",
+          "code": "https://github.com/dhyeyjoshi/Covid19-Detection-Using-Chest-Xray"
+        }
+    },
+    {
+        "name": "MaskNet Research",
+        "desc": "Ensuring Safety with CNN-Based Mask Detection Technology",
+        "image": "face_mask.png",
+        "category": "Healthcare",
+        "links": {
+          "view": "https://www.researchgate.net/publication/346467056_Facial_Mask_Detection_Using_Stacked_CNN_Model",
+          "code": "https://github.com/dhyeyjoshi/Facial-Mask-Detection-Using-Stacked-CNN-Model"
+        }
+    },
+    {
+        "name": "PropertyPulse Boston",
+        "desc": "Your Partner in Property Search and Price Analysis",
+        "image": "boston_homes.jpg",
+        "category": "E-commerce",
+        "links": {
+          "view": "https://medium.com/@dhyey-joshi12/boston-homes-mlops-continuous-integration-ci-cd-for-ml-pipelines-with-github-actions-and-791f5396162a",
+          "code": "https://github.com/dhyeyjoshi/BostonHousePrice-Predictor"
+        }
+    },
+    {
+        "name": "SageBank AI",
+        "desc": "Analyzing a Portuguese bank's direct marketing campaign data, using AWS SageMaker to predict client subscription outcomes.",
+        "image": "Amazon-Sagemaker.jpg",
+        "category": "Banking",
+        "links": {
+          "view": "https://medium.com/@dhyey-joshi12/mlaas-ml-as-a-service-using-aws-sagemaker-to-solve-machine-learning-ai-problems-1210ecb7d568",
+          "code": "https://github.com/dhyeyjoshi/Project-Banking--MLaas-AWS-SageMaker"
+        }
+    },
+    {
+        "name": "GlobalBuzz",
+        "desc": "Scaling Social Buzz's Tech Unicorn for IPO Success",
+        "image": "social_buzz.gif",
+        "category": "Banking",
+        "links": {
+          "view": "https://github.com/dhyeyjoshi/Accenture-Data-Analyst-Internship/tree/main",
+          "code": "https://github.com/dhyeyjoshi/Accenture-Data-Analyst-Internship/tree/main"
+        }
+    },
+    {
+        "name": "MarketMinds",
+        "desc": "Dual-Dynamics Stock Forecasting with LSTM and Sentiment Analysis",
+        "image": "stock_market.gif",
+        "category": "Banking",
+        "links": {
+          "view": "https://github.com/dhyeyjoshi/Intern-Sparks-Foundation-DataScience",
+          "code": "https://github.com/dhyeyjoshi/Intern-Sparks-Foundation-DataScience"
+        }
+    },
+    {
+        "name": "Customer SegmentSphere",
+        "desc": "Tailored Customer Insights with K-Means Analysis",
+        "image": "customer_seg.gif",
+        "category": "Marketing",
+        "links": {
+          "view": "https://github.com/dhyeyjoshi/Customer-Segmentation-Using-K-Means",
+          "code": "https://github.com/dhyeyjoshi/Customer-Segmentation-Using-K-Means"
+        }
+    },
+    {
+        "name": "FaceIntellect",
+        "desc": "Next-Gen Face Recognition via Transfer Learning",
+        
+        "image": "face_recog.gif",
+        "category": "RemoteSensing",
+        "links": {
+          "view": "https://github.com/dhyeyjoshi/Transfer-Learning-Face-Recognition-of-Avenger-Heros-Me",
+          "code": "https://github.com/dhyeyjoshi/Transfer-Learning-Face-Recognition-of-Avenger-Heros-Me"
+        }
+    },
+    {
+      "name": "ObjectifyAI",
+      "desc": "Revolutionizing road safety and smart transportation with custom vehicle/human/traffic lights detection.",
+      
+      "image": "obj_detect.gif",
+      "category": "RemoteSensing",
+      "links": {
+        "view": "https://github.com/dhyeyjoshi/TFOD-2.0-Custom-Object-Detection",
+        "code": "https://github.com/dhyeyjoshi/TFOD-2.0-Custom-Object-Detection"
+      }
+  },
+  {
+    "name": "PyStreamHub",
+    "desc": "Python's Gateway to Dynamic Video Streams",
+    
+    "image": "live_stream.gif",
+    "category": "RemoteSensing",
+    "links": {
+      "view": "https://github.com/dhyeyjoshi/Python_Video_Live_Streaming_App",
+      "code": "https://github.com/dhyeyjoshi/Python_Video_Live_Streaming_App"
+    }
+},
+{
+  "name": "DevTalk",
+  "desc": "DevTalk is a cutting-edge developers' blogging website designed to provide a dynamic platform for technology enthusiasts, coders, and innovators.",
+  
+  "image": "dev_blog.gif",
+  "category": "E-commerce",
+  "links": {
+    "view": "https://github.com/dhyeyjoshi/DevBlog-Website-Using-Devops-Technology",
+    "code": "https://github.com/dhyeyjoshi/DevBlog-Website-Using-Devops-Technology"
+  }
+}
+]
